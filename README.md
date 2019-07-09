@@ -1,18 +1,18 @@
 # react-101
 An introductory tutorial to React.
 
-## webpack-01
+## [Part 1](tree/01-webpack)
 
 - <https://webpack.js.org/guides/getting-started/> (Part 1)
 
-## webpack-02
+## [Part 2](tree/02-webpack-config)
 
 - <https://webpack.js.org/guides/getting-started/> (Part 2)
 
-## webpack-03
+## [Part 3](tree/03-typescript)
 
 - <https://webpack.js.org/guides/typescript/>
 
-## webpack-04
+## [Part 4](tree/04-react)
 
 - <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
