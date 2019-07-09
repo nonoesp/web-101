@@ -12,3 +12,7 @@ An introductory tutorial to React.
 ## webpack-03
 
 - <https://webpack.js.org/guides/typescript/>
+
+## webpack-04
+
+- <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
