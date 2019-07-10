@@ -13,18 +13,22 @@ You can see what code changes on each chapter by going to its branch and clickin
 
 ### [Chapter 1](https://github.com/nonoesp/react-101/tree/01-webpack)
 
+- The simplest webpack application.
 - <https://webpack.js.org/guides/getting-started/> (Part 1)
 
 ### [Chapter 2](https://github.com/nonoesp/react-101/tree/02-webpack-config)
 
+- Customizing webpack's configuration.
 - <https://webpack.js.org/guides/getting-started/> (Part 2)
 
 ### [Chapter 3](https://github.com/nonoesp/react-101/tree/03-typescript)
 
+- Adding TypeScript to the mix.
 - <https://webpack.js.org/guides/typescript/>
 
 ### [Chapter 4](https://github.com/nonoesp/react-101/tree/04-react)
 
+- The simplest React application.
 - <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
 
 ## Electron
