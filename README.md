@@ -11,19 +11,19 @@
 
 You can see what code changes on each chapter by going to its branch and clicking `Compare`.
 
-### [Part 1](https://github.com/nonoesp/react-101/tree/01-webpack)
+### [Chapter 1](https://github.com/nonoesp/react-101/tree/01-webpack)
 
 - <https://webpack.js.org/guides/getting-started/> (Part 1)
 
-### [Part 2](https://github.com/nonoesp/react-101/tree/02-webpack-config)
+### [Chapter 2](https://github.com/nonoesp/react-101/tree/02-webpack-config)
 
 - <https://webpack.js.org/guides/getting-started/> (Part 2)
 
-### [Part 3](https://github.com/nonoesp/react-101/tree/03-typescript)
+### [Chapter 3](https://github.com/nonoesp/react-101/tree/03-typescript)
 
 - <https://webpack.js.org/guides/typescript/>
 
-### [Part 4](https://github.com/nonoesp/react-101/tree/04-react)
+### [Chapter 4](https://github.com/nonoesp/react-101/tree/04-react)
 
 - <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
 
