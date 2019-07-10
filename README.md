@@ -1,6 +1,11 @@
 # react-101
 An introductory tutorial to React (and webpack, TypeScript, and Electron).
 
+## Requirements
+
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))
+
 ## [Part 1](https://github.com/nonoesp/react-101/tree/01-webpack)
 
 - <https://webpack.js.org/guides/getting-started/> (Part 1)
