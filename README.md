@@ -1,5 +1,5 @@
 # react-101
-An introductory tutorial to React.
+An introductory tutorial to React (and webpack, TypeScript, and Electron).
 
 ## [Part 1](https://github.com/nonoesp/react-101/tree/01-webpack)
 
@@ -21,3 +21,18 @@ An introductory tutorial to React.
 
 - [What is Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) (video) · 4 min
 - [electron-quick-start](https://github.com/electron/electron-quick-start) (GitHub)
+
+## Guides
+
+### Hello, Electron!
+
+```
+# Clone this repository
+git clone https://github.com/electron/electron-quick-start
+# Go into the repository
+cd electron-quick-start
+# Install dependencies
+npm install
+# Run the app
+npm start
+```
