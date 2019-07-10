@@ -20,7 +20,8 @@ An introductory tutorial to React (and webpack, TypeScript, and Electron).
 ## Electron
 
 - [What is Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) (video) · 4 min
-- [electron-quick-start](https://github.com/electron/electron-quick-start) (GitHub)
+- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) (GitHub) · Official Electron quick-start with JavaScript
+- [nonoesp/electron-quick-start](https://github.com/nonoesp/electron-quick-start) (GitHub) · Nono's Electron quick-start with Webpack, TypeScript, React, Redux, Jest & auto-reload.
 - [electron-packager](https://github.com/electron-userland/electron-packager)
 
 ## Guides
