@@ -17,10 +17,11 @@ An introductory tutorial to React (and webpack, TypeScript, and Electron).
 
 - <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
 
-## Other
+## Electron
 
 - [What is Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) (video) · 4 min
 - [electron-quick-start](https://github.com/electron/electron-quick-start) (GitHub)
+- [electron-packager](https://github.com/electron-userland/electron-packager)
 
 ## Guides
 
