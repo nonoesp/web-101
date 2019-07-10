@@ -20,3 +20,4 @@ An introductory tutorial to React.
 ## Other
 
 - [What is Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) (video) · 4 min
+- [electron-quick-start](https://github.com/electron/electron-quick-start) (GitHub)
