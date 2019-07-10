@@ -16,3 +16,7 @@ An introductory tutorial to React.
 ## [Part 4](https://github.com/nonoesp/react-101/tree/04-react)
 
 - <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
+
+## Other
+
+- [What is Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) (video) · 4 min
