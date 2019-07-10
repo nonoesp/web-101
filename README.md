@@ -28,7 +28,7 @@ An introductory tutorial to React (and webpack, TypeScript, and Electron).
 
 ### Hello, Electron!
 
-```
+```bash
 # Clone this repository
 git clone https://github.com/electron/electron-quick-start
 # Go into the repository
@@ -42,7 +42,7 @@ npm start
 
 ### Hello, Electron, React, and TypeScript!
 
-```
+```bash
 # Clone this repository
 git clone https://github.com/nonoesp/electron-quick-start
 # Go into the repository
