@@ -1,6 +1,6 @@
 # React 101
 
-An introductory tutorial to React (and webpack, TypeScript, and Electron).
+Introduction to React (and webpack and TypeScript and Electron and maybe more).
 
 ## Requirements
 
