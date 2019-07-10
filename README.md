@@ -38,3 +38,17 @@ npm install
 # Run the app
 npm start
 ```
+
+
+### Hello, Electron, React, and TypeScript!
+
+```
+# Clone this repository
+git clone https://github.com/nonoesp/electron-quick-start
+# Go into the repository
+cd electron-quick-start
+# Install dependencies
+npm install
+# Run the app
+npm start
+```
