@@ -1,4 +1,5 @@
-# react-101
+# React 101
+
 An introductory tutorial to React (and webpack, TypeScript, and Electron).
 
 ## Requirements
