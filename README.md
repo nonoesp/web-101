@@ -16,6 +16,10 @@ You can see what code changes on each chapter by going to its branch and clickin
 - [Code changes from `02-webpack-config` → `03-typescript`](https://github.com/nonoesp/react-101/compare/5ff75078ce5cb60063071aa60d6ff29614a3f58b..38245ff69cdbde3b30bbaab61fbe86f752ef95de)
 - [Code changes from `03-typescript` → `04-react`](https://github.com/nonoesp/react-101/compare/38245ff69cdbde3b30bbaab61fbe86f752ef95de..1fbee0743286f4c09648909ba9f8252d27c23078)
 
+### 🗺 [Introduction](https://github.com/nonoesp/laravel-mix-quickstart) · Overview
+
+- An quick overview of HTML, SCSS, JavaScript, TypeScript, and webpack.
+
 ### 📦 [Chapter 1](https://github.com/nonoesp/react-101/tree/01-webpack) · Webpack
 
 - The simplest webpack application.
