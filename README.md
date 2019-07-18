@@ -16,36 +16,34 @@ You can see what code changes on each chapter by going to its branch and clickin
 - [Code changes from `02-webpack-config` → `03-typescript`](https://github.com/nonoesp/react-101/compare/5ff75078ce5cb60063071aa60d6ff29614a3f58b..38245ff69cdbde3b30bbaab61fbe86f752ef95de)
 - [Code changes from `03-typescript` → `04-react`](https://github.com/nonoesp/react-101/compare/38245ff69cdbde3b30bbaab61fbe86f752ef95de..1fbee0743286f4c09648909ba9f8252d27c23078)
 
-### [Chapter 1](https://github.com/nonoesp/react-101/tree/01-webpack)
+### [Chapter 1](https://github.com/nonoesp/react-101/tree/01-webpack) · Webpack
 
 - The simplest webpack application.
 - <https://webpack.js.org/guides/getting-started/> (Part 1)
 
-### [Chapter 2](https://github.com/nonoesp/react-101/tree/02-webpack-config)
+### [Chapter 2](https://github.com/nonoesp/react-101/tree/02-webpack-config) · Webpack config
 
 - Customizing webpack's configuration.
 - <https://webpack.js.org/guides/getting-started/> (Part 2)
 
-### [Chapter 3](https://github.com/nonoesp/react-101/tree/03-typescript)
+### [Chapter 3](https://github.com/nonoesp/react-101/tree/03-typescript) · TypeScript
 
 - Adding TypeScript to the mix.
 - <https://webpack.js.org/guides/typescript/>
 
-### [Chapter 4](https://github.com/nonoesp/react-101/tree/04-react)
+### [Chapter 4](https://github.com/nonoesp/react-101/tree/04-react) · React
 
 - The simplest React application.
 - <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
 
-## Electron
+## Bonus Chapter · Electron
 
 - [What is Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) (video) · 4 min
-- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) · Official quick-start with JavaScript
-- [nonoesp/electron-quick-start](https://github.com/nonoesp/electron-quick-start) · Nono's quick-start with Webpack, TypeScript, React, Redux, Jest & auto-reload.
 - [electron-packager](https://github.com/electron-userland/electron-packager)
 
-## Guides
-
 ### Hello, Electron!
+
+[electron/electron-quick-start](https://github.com/electron/electron-quick-start) is Electron's official quick-start with JavaScript.
 
 ```bash
 # Clone this repository
@@ -59,7 +57,9 @@ npm start
 ```
 
 
-### Hello, Electron, React, and TypeScript!
+### Hello, Electron, React & TypeScript!
+
+[nonoesp/electron-quick-start](https://github.com/nonoesp/electron-quick-start) is Nono's quick-start with Webpack, TypeScript, React, Redux, Jest & auto-reload.
 
 ```bash
 # Clone this repository
