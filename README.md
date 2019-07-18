@@ -6,6 +6,7 @@
 
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))
+- [live-server](https://www.npmjs.com/package/live-server)
 
 ## Chapters
 
