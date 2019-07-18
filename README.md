@@ -19,7 +19,7 @@ You can see what code changes on each chapter by going to its branch and clickin
 ### 🗺 [Introduction](https://github.com/nonoesp/laravel-mix-quickstart) · Overview
 
 - An quick overview of HTML, SCSS, JavaScript, TypeScript, and webpack.
-- nonoesp/laravel-mix-quickstart
+- [nonoesp/laravel-mix-quickstart](https://github.com/nonoesp/laravel-mix-quickstart)
 
 ### 📦 [Chapter 1](https://github.com/nonoesp/react-101/tree/01-webpack) · Webpack
 
