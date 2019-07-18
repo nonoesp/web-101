@@ -41,9 +41,11 @@ You can see what code changes on each chapter by going to its branch and clickin
 - The simplest React application.
 - <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
 
-### ⚡️ Chapter 5 · Electron (Bonus)
+### ⚡️ [Chapter 5](https://github.com/nonoesp/electron-quick-start) · Electron (Bonus)
 
 - [What is Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) (video) · 4 min
+- [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+- [nonoesp/electron-quick-start](https://github.com/nonoesp/electron-quick-start)
 - [electron-packager](https://github.com/electron-userland/electron-packager)
 
 #### Hello, Electron!
