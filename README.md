@@ -81,4 +81,4 @@ npm start
 
 ## Author
 
-**Hi, I'm Nono.** I host [Getting Simple](https://gettingsimple.com/podcast)—a podcast about how you can live a more meaningfull, creative, and simple life—[sketch](https://sketch.nono.ma) things that call my attention, and [write](https://gettingsimple.com/writing) essays on enjoying a slower life.
+**Hi. I'm Nono.** I host [Getting Simple](https://gettingsimple.com/podcast)—a podcast about how you can live a more meaningfull, creative, and simple life—[sketch](https://sketch.nono.ma) things that call my attention, and [write](https://gettingsimple.com/writing) essays on enjoying a slower life.
