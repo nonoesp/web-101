@@ -20,7 +20,7 @@
   "homepage": "https://github.com/nonoesp/react-101#readme",
   "devDependencies": {
     "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "lodash": "^4.17.14"
